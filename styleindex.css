@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnIGjGh_vsj8Qk32qJGds_B0XyiLNKSx8GOg&usqp=CAU);
+
+}
+
+#nav {
+    color: black;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    background-color: black;
+    
+}
+
+h1 {
+    font-family: 'Alex Brush', cursive;
+    font-weight: bolder;
+    color:blue;
+    margin-top: auto;
+}
+
+#pic {
+    height: 300px;
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    /* clear: left; */
+}
+
+footer {
+    background-color: grey;
+    margin-top: 20px;
+    height: 50px;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
